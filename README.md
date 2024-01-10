@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @73545samrudhi
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning testing and automation
-- 💞️ I’m looking to collaborate on selenium
+- 👋 Hi, I’m @ Samrudhi Sonone
+- 👀 I’m interested in manual & automation testing
+- 🌱 I’m currently learning SDET
+- 💞️ I’m looking to collaborate on manual & automation testing
 - 📫 How to reach me samrudhiarunsonone123@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns:  
 - ⚡ Fun fact: ...
 
 <!---
